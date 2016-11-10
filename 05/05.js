@@ -1,5 +1,6 @@
-function strlen(){
+function strlen(textA,textB){
+    
 }
 
-function concat(){
+function concat(textC,textB){
 }

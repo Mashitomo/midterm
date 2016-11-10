@@ -1,2 +1,5 @@
-function xor(){
+
+function xor(boolA,boolB){
+  return false
 }
+
